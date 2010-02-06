@@ -1,0 +1,8 @@
+Monitor de logs escrito em 1998 utilizando gtk
+
+
+Codigo nao funcional, armazenado apenas para historico
+
+Only type make
+If the program don't find your log files please edit the
+file ~/.xlogmonitorrc
